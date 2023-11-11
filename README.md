@@ -1,10 +1,10 @@
 # Inventory Management System (IMS)
 
-The Inventory Management System (IMS) is a Java application developed for Chin Leong Construction Systems Pte Ltd to facilitate efficient management of their product inventory. This system allows employees to add, remove, modify, and view products within the inventory.
+The Inventory Management System (IMS) is a Java application developed for construction chemical company to facilitate efficient management of their product inventory. This system allows employees to add, remove, modify, and view products within the inventory.
 
 ## Product Class
 
-The Product class is a fundamental component of the Inventory Management System (IMS) developed for Chin Leong Construction Systems Pte Ltd. This class represents individual products within the inventory and contains attributes such as product ID, name, stock quantity, and price.
+The Product class is a fundamental component of the Inventory Management System (IMS) developed for the client. This class represents individual products within the inventory and contains attributes such as product ID, name, stock quantity, and price.
 
 ### Attributes
 
